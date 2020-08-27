@@ -18,10 +18,6 @@ Crear carrito de compras con las funcionalidades básicas.
 7. Vaciar el Carrito de Compras
 ---
 
-
-# course-JAVASCRIPT-02
-
----
 Shopping cart
 
 # Summary:
